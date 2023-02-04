@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kin47
 - 👀 I’m interested in watching movies, playing football (not American football), and coding
-- 🌱 I’m currently learning Python, OOP with Java, and Flutter
+- 🌱 I’m currently learning Flutter and Mobile App Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
   + Facebook: https://www.facebook.com/kinm472k2/
