@@ -6,6 +6,7 @@
 
 - 📫 How to reach me: 
   + Facebook: https://www.facebook.com/kinm472k2/
+  + LinkedIn: https://www.linkedin.com/in/minhtq47/
   + Instagram: kin.m_47
 
 <!---
