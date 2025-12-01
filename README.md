@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kin47
 - 🧑‍🎓 I'm a graduated Software Technology student of Posts and Telecommunications Institute of Technology (Hanoi)
-- 💻 I'm currently working as a Mobile Developer (mainly Flutter), but i can also code Android (Java/Kotlin) and iOS (Swift/C#)
-- 🧑‍🎓 I'm currently learning C#/.Net in backend development
+- 💻 I'm currently working as a Backend Developer (mainly C#/.Net), and in the future i will extend to Java Spring Boot/Python/NodeJs...
+- 🧑‍🎓 I used to be a Mobile Developer (mainly Flutter), but i can also code Android (Java/Kotlin) and iOS (Swift/C#). I still enjoy doing Mobile Development
 - 👀 I’m interested in watching movies, playing football (not American football), and coding
-- 💞️ I’m looking to collaborate on Flutter, Android, iOS
+- 💞️ I’m looking to collaborate on Backend Development and Mobile Development
 
 - 📫 How to reach me: 
   + Facebook: https://www.facebook.com/profile.php?id=100036811072255
